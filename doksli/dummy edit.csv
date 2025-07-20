@@ -1,0 +1,63 @@
+Jenis Kelamin,Tanggal Lahir,Domisili,Hobi,Status Pernikahan,Agama Ayah,Agama Ibu,Pekerjaan,Penghasilan,Pendidikan,Tinggi Badan,Berat Badan,Warna Kulit,Tipe Rambut,Cacat Fisik,Riwayat Penyakit,Merokok
+Perempuan,03/03/1995, Sleman,Bersepeda,Lajang,Islam,Islam,Web Developer,Rp 6.000.000 - Rp 8.200.000,S1,170,80,Hitam,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,02/01/1992, Sidoarjo,Menulis,Lajang,Islam,Islam,Mobile Developer,Rp 5.000.000 - Rp 6.200.000,S1,187,70,Sawo Matang,Lurus,Tidak,Tidak Ada,Ya
+Perempuan,09/11/1996, Sleman,Membaca,Lajang,Islam,Islam,Pengusaha,Rp 3.400.000 - Rp 4.000.000,SMA,180,83,Kuning Langsat,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,29/08/1996,Jakarta,Berenang,Lajang,Islam,Islam,Pengusaha,Rp 3.00.000 - Rp 3.800.000,SMA,172,74,Kuning Langsat,Bergelombang,Tidak,Tidak Ada,Ya
+Perempuan,12/06/2000,Bogor,Fotografi,Lajang,Islam,Islam,Pedagang,Rp 2.800.000 - Rp 3.500.000,SMA,181,85,Kuning Langsat,Lurus,Tidak,Tidak Ada,Tidak
+Laki-Laki,09/10/1997,Yogyakarta,Memasak,Lajang,Islam,Islam,Guru,Rp 2.800.000 - Rp 3.500.000,S1,162,82,Hitam,Bergelombang,Tidak,Tidak Ada,Tidak
+Perempuan,28/09/1999, Sleman,Mendengarkan Musik,Lajang,Islam,Islam,Guru,Rp 3.500.000 - Rp 3.800.000,S1,164,47,Hitam,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,19/02/2000,Yogyakarta,Fotografi,Lajang,Islam,Islam,Guru,Rp 3.200.000 - Rp 3.400.000,S1,165,88,Putih,Bergelombang,Tidak,Tidak Ada,Tidak
+Perempuan,09/10/1997, Solo,Bersepeda,Lajang,Islam,Islam,Desainer Grafis,Rp 3.600.000 - Rp 4.800.000,SMA,170,88,Putih,Keriting,Tidak,Tidak Ada,Ya
+Laki-Laki,17/08/1991, Banyumas,Fotografi,Lajang,Islam,Islam,Desainer Grafis,Rp 3.800.000 - Rp 4.000.000,SMA,176,82,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,30/06/1994, Banyumas,Berenang,Lajang,Islam,Islam,Pedagang,Rp 4.000.000 - Rp 4.200.000,SMA,152,86,Kuning Langsat,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,12/01/1993, Sleman,Fotografi,Lajang,Islam,Islam,Fotografer,Rp 4.200.000 - Rp 4.400.000,SMA,182,57,Putih,Lurus,Tidak,maag,Ya
+Perempuan,25/05/1990, Bangka,Bersepeda,Lajang,Islam,Islam,Fotografer,Rp 4.400.000 - Rp 4.600.000,S1,171,58,Sawo Matang,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,18/11/1996,Yogyakarta,Bersepeda,Lajang,Islam,Islam,Pustakawan,Rp 4.600.000 - Rp 4.800.000,S1,177,78,Kuning Langsat,Bergelombang,Tidak,Tidak Ada,Tidak
+Perempuan,07/09/1999,bantul,Memasak,Lajang,Islam,Islam,Pengusaha,Rp 4.800.000 - Rp 5.000.000,SMA,168,66,Hitam,Bergelombang,Tidak,Tidak Ada,Ya
+Laki-Laki,23/02/1998,Jakarta,Membaca,Lajang,Islam,Islam,Pengusaha,Rp 5.000.000 - Rp 5.200.000,S1,171,61,Kuning Langsat,Keriting,Tidak,Tidak Ada,Tidak
+Perempuan,02/04/1994,Jakarta,Bersepeda,Lajang,Islam,Islam,Desainer Grafis,Rp 5.200.000 - Rp 5.400.000,S1,166,45,Sawo Matang,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,29/10/1991,Bekasi,Mendengarkan Musik,Lajang,Islam,Islam,Barista,Rp 5.400.000 - Rp 5.600.000,SMA,179,48,Sawo Matang,Keriting,Tidak,Tidak Ada,Tidak
+Perempuan,15/07/1995, Bekasi,Berenang,Lajang,Islam,Islam,Chef (Koki),Rp 5.600.000 - Rp 5.800.000,S1,153,57,Kuning Langsat,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,03/05/1992, Bandung,Bersepeda,Lajang,Islam,Islam,Barista,Rp 3.800.000 - Rp 4.000.000,SMA,175,70,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,10/12/1993, Bogor,Membaca,Lajang,Islam,Islam,Apoteker,Rp 2.650.000 - Rp 2.850.000,SMA,160,55,Putih,Bergelombang,Tidak,Asma,Tidak
+Laki-Laki,27/08/1997, Sleman,Fotografi,Lajang,Islam,Islam,Penulis,Rp 3.050.000 - Rp 3.250.000,S1,180,75,Kuning Langsat,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,06/11/1990,Surabaya,Menulis,Lajang,Islam,Islam,Penulis,Rp 3.050.000 - Rp 3.250.000,S1,165,60,Putih,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,19/09/1996,Solo,Memasak,Lajang,Islam,Islam,Apoteker,Rp 1.650.000 - Rp 1.850.000,SMA,170,80,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,11/06/1999,Bogor,Memasak,Lajang,Islam,Islam,Perawat,Rp 3.050.000 - Rp 3.250.000,S1,162,58,Sawo Matang,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,12/06/1995,Yogyakarta,Fotografi,Lajang,Islam,Islam,Videografer,Rp 3.050.000 - Rp 3.250.000,SMA,180,85,Putih,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,25/03/1998, Sleman,Bersepeda,Lajang,Islam,Islam,Apoteker,Rp 2.250.000 - Rp 2.450.000,SMA,155,50,Kuning Langsat,Lurus,Tidak,Tidak Ada,Tidak
+Laki-Laki,08/09/1991, Bandung,Mendengarkan Musik,Lajang,Islam,Islam,Videografer,Rp 4.450.000 - Rp 5.000.000,SMA,170,65,Sawo Matang,Bergelombang,Tidak,Tidak Ada,Tidak
+Perempuan,14/11/1992, Bogor,Menulis,Lajang,Islam,Islam,Videografer,Rp 4.250.000 - Rp 4.500.000,S1,160,52,Putih,Lurus,Tidak,Tidak Ada,Tidak
+Laki-Laki,30/04/1996,Yogyakarta,Bersepeda,Lajang,Islam,Islam,Teknisi,Rp 2.850.000 - Rp 3.050.000,SMA,175,70,Kuning Langsat,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,17/12/1993,Sleman,Membaca,Lajang,Islam,Islam,Penulis,Rp 3.050.000 - Rp 3.250.000,SMA,165,55,Sawo Matang,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,09/07/1997,bantul,Bersepeda,Lajang,Islam,Islam,Pengusaha,Rp 3.250.000 - Rp 3.500.000,S1,180,75,Putih,Bergelombang,Tidak,Tidak Ada,Tidak
+Perempuan,21/05/1996,Yogyakarta,Memasak,Lajang,Islam,Islam,Chef,Rp 5.800.000 - Rp 6.000.000,SMA,160,60,Sawo Matang,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,03/01/1990, Bekasi,Fotografi,Lajang,Islam,Islam,Desainer Interior,Rp 4.000.000 - Rp 4.200.000,S1,178,78,Kuning Langsat,Lurus,Tidak,amandel,Tidak
+Perempuan,27/08/1994, Klaten,Menulis,Lajang,Islam,Islam,Karyawan Swasta,Rp 2.500.000 - Rp 2.400.000,S1,162,58,Sawo Matang,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,19/02/1991, Sleman,Mendengarkan Musik,Lajang,Islam,Islam,Karyawan Swasta,Rp 2.400.000 - Rp 2.600.000,SMA,175,72,Kuning Langsat,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,04/10/1995, Bandung,Menulis,Lajang,Islam,Islam,Editor,Rp 3.600.000 - Rp 4.200.000,S1,158,52,Putih,Keriting,Tidak,Tidak Ada,Tidak
+Perempuan,22/07/2000, Bekasi,Fotografi,Lajang,Islam,Islam,Web Developer,Rp 5.800.000 - Rp 6.000.000,S1,182,80,Sawo Matang,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,09/06/1999, Bandung,Bersepeda,Lajang,Islam,Islam,Marketing,Rp 3.000.000 - Rp 3.200.000,S1,165,60,Putih,Lurus,Tidak,Tidak Ada,Tidak
+Laki-Laki,31/08/1998,Bekasi,Olahraga,Lajang,Islam,Islam,Guru,Rp 3.200.000 - Rp 3.400.000,SMA,175,70,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,18/04/2000, Bogor,Membaca,Lajang,Islam,Islam,UI/UX Designer,Rp 5.400.000 - Rp 5.800.000,S2,160,55,Putih,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,06/02/1999, Sleman,Fotografi,Lajang,Islam,Islam,Programmer,Rp 5.800.000 - Rp 6.000.000,S1,180,75,Kuning Langsat,Lurus,Tidak,Tidak Ada,Ya
+Perempuan,14/09/2000,Surabaya,Menulis,Lajang,Islam,Islam,Desainer Grafis,Rp 4.200.000 - Rp 4.500.000,S1,165,60,Putih,Keriting,Tidak,Tidak Ada,Tidak
+Laki-Laki,08/12/1999, Bekasi,Memasak,Lajang,Islam,Islam,Guru,Rp 2.200.000 - Rp 2.900.000,SMA,170,80,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,28/12/2000,Madiun,Mendengarkan Musik,Lajang,Islam,Islam,Marketing,Rp 3.500.000 - Rp 4.000.000,SMA,160,50,Sawo Matang,Bergelombang,Tidak,Tidak Ada,Tidak
+Laki-Laki,19/05/1995, Bandung,Berenang,Lajang,Islam,Islam,Apoteker,Rp 2.600.000 - Rp 3.000.000,S1,175,78,Putih,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,02/10/1994, Banyumas,Membaca,Lajang,Islam,Islam,Penulis,Rp 3.800.000 - Rp 4.600.000,S1,158,52,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Perempuan,10/06/1998, Bandung,Memasak,Lajang,Islam,Islam,Penulis,Rp 3.000.000 - Rp 3.200.000,S1,172,65,Putih,Lurus,Tidak,Tidak Ada,Tidak
+Laki-Laki,23/03/2000,tegal,Fotografi,Lajang,Islam,Islam,Fotografer,Rp 4.200.000 - Rp 5.00.000,SMA,160,58,Kuning Langsat,Bergelombang,Tidak,Tidak Ada,Ya
+Perempuan,28/10/1996,Yogyakarta,Membaca,Lajang,Islam,Islam,Pedagang,Rp 1.000.000 - Rp 2.000.000,S1,160,49,Kuning Langsat,Lurus,Tidak,TB Kelenjar,Tidak
+Laki-Laki,21/09/1997,Yogyakarta,Olahraga,Lajang,Islam,Islam,Pengusaha,Rp 3.000.000 - Rp 5.000.000,SMA,163,52,Sawo Matang,Lurus,Tidak,Tidak Ada,Tidak
+Laki-Laki,21/09/1995,Boyolali,"kajian, olahraga, kuliner",Lajang, Islam, Islam,Guru,2.000.000 - 3.000.000,S1,165,72,Sawo Matang(Coklat), Bergelombang,Tidak,Kadang sesak Nafas,Tidak 
+Perempuan,26/01/1999,Madiun,Membaca,Lajang,Islam,Islam,Guru Privat,500.000 - 1.000.000,s1,155,50,Kuning Langsat,Bergelombang,Tidak,Kulit sensitif di kaki kanan ,Tidak
+Perempuan,21/02/1992,PURWAKARTA,Membaca dan menulis,Lajang,Islam, Islam,Karyawan pt,3.000.000 -5.000.000, SMA,148,58, Putih Bersih, Lurus,Tidak, Mag, Tidak
+Laki-Laki,25/10/1992,bantul,"Traveling, Baca Buku",Lajang,Islam ,Islam ,Karyawan Honorer, 3.000.000 -5.000.000, S1,174,75, Kuning Langsat ,Lurus ,Tidak - ,Tidak Ada,Tidak
+Laki-Laki,14/10/1997,Bogor,"Membuca, rihlah",Lajang,Islam ,Islam ,Guru ,3.000.000 - 5.000.000 ,S2,165,45,Sawo Matang(Coklat),Ikal,Tidak,Asma dan maag, Tidak
+Perempuan,05/02/1997,Jakarta,,Lajang,Islam ,Islam ,Karyawan Swasta ,2.000.000 - 3.000.000,sl,164,56, Kuning Langsat , Lurus , Tidak, Tidak ada,Tidak
+Perempuan,17/02/1998,TANGERANG,"Olahraga, menulis, ngopi",Lajang,Islam ,Islam ,Guru ,3.000.000 - 5.000.000 ,s1 ,155,52, Kuning Langsat , Keriting , Tidak, Lower back pain ringan ,Tidak
+Laki-Laki,07/09/1997,Lampung,"Budminton, Graphic Design/Filmography",Lajang,Islam ,Islam ,Karyawan Swasta , 5.000.000 , S1,160,50, Kuning Langsat,Lurus ,Tidak,Tidak ada, Tidak 
+Perempuan,27/05/1996,Depok,"Nonton konten IT, Kajian online, resep masakan",Lajang,Islam ,Islam ,Software Developer ,5.000.000 ,s1,156,58,Putih Bersih ,Lurus, Tidak, Lactose intolerant , Tidak
+Laki-Laki,27/02/1997,Bekasi,"Olahraga, Diskusi Bisnis.",Lajang,Islam ,Islam ,Automation Engineer , 5.000.000, sl ,162,72, Putih Bersih,Ikal,Tidak ,sakit maag , Tidak
+Laki-Laki,27/02/1997,Bekasi,"Olahraga, Diskusi Bisnis.",Lajang,Islam ,Islam ,Automation Engineer , 5.000.000, sl ,162,72, Putih Bersih,Ikal,Tidak ,sakit maag , Tidak

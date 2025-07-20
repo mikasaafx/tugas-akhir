@@ -1,0 +1,13 @@
+Lajang,Islam ,Islam ,Karyawan Honorer, 3.000.000 -5.000.000, S1,174 ,75, Kuning Langsat ,Lurus ,Tidak - 
+
+Lajang,Islam ,Islam ,Guru ,3.000.000 - 5.000.000 ,S2,165,45,Sawo Matang(Coklat),Ikal,Tidak,Asma dan maag, Tidak
+
+Lajang,Islam ,Islam ,Karyawan Swasta ,2.000.000 - 3.000.000,sl, 164, 56 , Kuning Langsat , Lurus , Tidak, Tidak
+
+Lajang,Islam ,Islam ,Guru ,3.000.000 - 5.000.000 ,s1 , 155, 52 , Kuning Langsat , Keriting , Tidak, Lower back pain ringan 
+
+Lajang,Islam ,Islam ,Karyawan Swasta , 5.000.000 , S1, 160, 50, Kuning Langsat,Lurus ,Tidak,Tidak ada, Tidak 
+
+Lajang,Islam ,Islam ,Software Developer ,5.000.000 ,s1, 156, 58,Putih Bersih ,Lurus, Tidak, Lactose intolerant , Tidak
+
+Lajang,Islam ,Islam ,Automation Engineer , 5.000.000, sl ,162,72, Putih Bersih,Ikal,Tidak ,sakit maag , Tidak

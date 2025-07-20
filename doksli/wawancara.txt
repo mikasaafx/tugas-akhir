@@ -1,0 +1,14 @@
+- perkenalan
+- rumaysho, scope? bisnis?
+- sejarah
+- alur/proses bisnis berjalan
+- data diri yang diperlukan
+- yang mempengaruhi kecocokan calon pasangan
+- berapa banyak pasangan menikah
+- keluhan/komplain pasangan yg berhasil menikah
+- ada? dan kenapa pasangan batal menikah (tidak cocok)
+- persentase menikah & tidak
+- saran/feedback untuk aplikasi ini
+- minta data dummy/sample untuk penelitian:
+ 1. yang berhasil menikah (cocok)
+ 2. yang batal menikah (tidak cocok)

@@ -1,0 +1,12 @@
+3028 akun terdaftar
+285 menikah
+
+alur biro jodoh:
+- daftar akun
+- mengisi cv
+- ikut kelas pra-nikah
+- postest (ujian)
+- memilih cv calon pasangan (exclude nama, no hp, foto)
+- setelah memilih, akan dihubungi admin
+- dan mulai kerja manual sampai ke tahap nadzor
+- nadzor (dilakukan secara daring)
